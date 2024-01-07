@@ -1,0 +1,23 @@
+commit f57a0d58372c164ea2c42c8330028fd3a6130062
+Author: maimouna <maifall26@gmail.com>
+Date:   Sun Jan 7 19:32:18 2024 +0100
+
+    le premier commit
+
+commit 690793982837084e656c64f7b1088b6be1cbd3c6
+Author: maimouna <maifall26@gmail.com>
+Date:   Sun Jan 7 19:11:58 2024 +0100
+
+    fichier
+
+commit d13528845fc49188d12650cb907d0c54de9e17d1
+Author: maimouna <maifall26@gmail.com>
+Date:   Sun Jan 7 18:55:07 2024 +0100
+
+    c'est le fichier
+
+commit a7e2255f0aec9a9ee719714295b25c9074beeb2e
+Author: maimouna <maifall26@gmail.com>
+Date:   Sun Jan 7 18:43:54 2024 +0100
+
+    c'est le projet en classe
